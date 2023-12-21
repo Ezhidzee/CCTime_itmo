@@ -6,7 +6,3 @@ It is possible to choose the location of any point on the earth. Used OpenWeathe
 The original repository with the commit history was corrupted, for this reason this new one was created.
 
 ### Video:
-
-
-
-[![VIDEO](https://img.youtube.com/vi/Fd3rdMy5UAk/0.jpg)](https://www.youtube.com/watch?v=Fd3rdMy5UAk)
