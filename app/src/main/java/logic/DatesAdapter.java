@@ -1,4 +1,4 @@
-    package logic;
+package logic;
 
 import android.content.Context;
 import android.os.Build;
